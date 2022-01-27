@@ -65,7 +65,7 @@ a:hover, a:active, a:focus{color:#5465c4;text-decoration:none;outline:0;}
 #header h1{font-weight:400;margin-top:75px;font-size:2em;color:#ffffff;text-shadow:2px 2px 2px rgba(0, 0, 0, 0.29);}
 #header h4{margin-top:-25px;font-size:1.2em;line-height:1.5;font-weight:300;color:#fff;margin-bottom:110px;text-shadow:2px 2px 2px rgba(0, 0, 0, 0.29);}
 #about{position:relative;padding-top:0;margin-top:10px;height:auto;background-color:transparent;}
-#about #profile{animation-delay:500ms;animation-duration:1000ms;position:absolute;width:180px;height:180px;top:-97px;left:50%;margin-left:-90px;z-index:1;display:block;border-radius:50%;background-color:#fff;padding:5px;box-shadow:0 3px 5px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.2);}
+#about #profile{animation-delay:500ms;animation-duration:1000ms;position:absolute;width:180px;height:180px;top:-97px;left:50%;margin-left:-90px;z-index:1;display:block;border-radius:50%;background-color:#fff;/*padding:5px;box-shadow:0 3px 5px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.2);*/}
 #about #profile img{width:170px;height:170px;border-radius:50%;}
 #about #intro-div{padding:30px 0;}
 #about #intro-div ul{padding:0 5px;margin-top:85px;}
